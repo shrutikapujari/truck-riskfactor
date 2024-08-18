@@ -3,6 +3,7 @@ A project using Hadoop and Tableau to analyze risk factors for trucks.
 
 ## Dashboard
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/b5989ad6-0ae8-46cb-9c96-a1a63ac039af">
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/74126457-c3f5-4a42-965c-99f43457496c">
 
 - The driver with the identifier A97 has the highest risk factor, significantly higher than the others.
 - Oshkosh has the highest average risk factor, with significant contributions from lane departure and overspeed events. Western Star has the lowest average risk factor among the listed models, with a more balanced distribution of event types.
